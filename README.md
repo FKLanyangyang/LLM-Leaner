@@ -1,7 +1,5 @@
 # LLM-Leaner
-[TOC]
-
---- 
+[toc]
 
 ## 学习目录
 
