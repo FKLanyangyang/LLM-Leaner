@@ -1,5 +1,5 @@
 # LLM-Leaner
-[toc]
+[TOC]
 
 --- 
 
